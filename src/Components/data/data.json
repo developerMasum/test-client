@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "picture": "https://i.ibb.co/JR37phj/affair-1238434-1280.jpg",
+    "title": "Conferences and Seminars",
+    "description": "Conferences and Seminars offer opportunities for networking and knowledge exchange on industry-specific topics..",
+    "price": 29.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/buy/product1"
+    }
+  },
+  {
+    "id": "2",
+    "picture": "https://i.ibb.co/r4ZyyNT/istockphoto-530686103-1024x1024.jpg",
+    "title": " Trade Shows and Expos",
+    "description": "Trade Shows and Expos provide platforms for businesses to showcase products and services to a wide audience.",
+    "price": 49.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/buy/product2"
+    }
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/tcyxmVv/istockphoto-933461772-1024x1024.jpg",
+    "title": "Team Building Workshops",
+    "description": "Team Building Workshops foster collaboration and improve team dynamics through interactive activities and exercises.",
+    "price": 79.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/cart/product3"
+    }
+  },
+  {
+    "id": "4",
+    "picture": "https://i.ibb.co/4t7vXPZ/rocket-6111769-1280.png",
+    "title": "Product Launches",
+    "description": "Product Launches introduce new offerings to the market and generate excitement among potential customers and stakeholders.",
+    "price": 39.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/details/product4"
+    }
+  },
+  {
+    "id": "5",
+    "picture": "https://i.ibb.co/6sNGxVh/meeting-5395615-1920.jpg",
+    "title": "Corporate Meetings",
+    "description": "Corporate Meetings facilitate essential discussions, decision-making, and information sharing among company stakeholders.",
+    "price": 99.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/buy/product5"
+    }
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/BV22TH4/winner-6868098-1920.png",
+    "title": "Award Ceremonies,",
+    "description": "Award Ceremonies celebrate and recognize outstanding achievements and contributions within an organization or industry.",
+    "price": 59.99,
+    "button": {
+      "text": "View Details",
+      "link": "https://example.com/purchase/product6"
+    }
+  }
+]

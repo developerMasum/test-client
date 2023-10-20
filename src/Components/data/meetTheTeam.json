@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Smith",
+    "expertise": "Software Developer",
+    "description": "John is a highly skilled software developer with a passion for creating efficient and innovative solutions to complex problems.",
+    "image": "https://i.ibb.co/VwtXpWw/cb6ea1d572904b72b8e763a5fc6b011c.jpg"
+  },
+  {
+    "name": "Sarah Johnson",
+    "expertise": "Data Scientist",
+    "description": "Sarah specializes in data analysis and machine learning, with a strong track record of delivering actionable insights from data.",
+    "image": "https://example.com/sarah-johnson.jpg"
+  },
+  {
+    "name": "David Brown",
+    "expertise": "Graphic Designer",
+    "description": "David is a creative graphic designer known for his stunning visual designs and attention to detail.",
+    "image": "https://example.com/david-brown.jpg"
+  },
+  {
+    "name": "Emily Wilson",
+    "expertise": "Marketing Specialist",
+    "description": "Emily is an experienced marketing specialist who excels in developing and executing successful marketing campaigns.",
+    "image": "https://example.com/emily-wilson.jpg"
+  },
+  {
+    "name": "Emily Wilson",
+    "expertise": "Marketing Specialist",
+    "description": "Emily is an experienced marketing specialist who excels in developing and executing successful marketing campaigns.",
+    "image": "https://example.com/emily-wilson.jpg"
+  }
+]
